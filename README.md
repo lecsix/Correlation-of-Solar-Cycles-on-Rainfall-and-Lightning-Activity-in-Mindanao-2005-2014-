@@ -75,9 +75,6 @@ The analysis was run with Python 3.12.6 and the following main packages:
 – scikit-learn
 – minisom
 
-A requirements file is provided in requirements.txt. Create and activate a virtual environment, then install dependencies with
-
-pip install -r requirements.txt
 
 HOW TO RUN
 
@@ -106,15 +103,3 @@ Run the scripts in validation to
 – compute station-level and RLC-aggregated metrics
 – export CSV tables that match the thesis appendices
 
-CODE–THESIS LINK
-
-The code corresponds to the analyses described in the Methodology and Appendix sections of the thesis “Correlation of Solar Cycles on Rainfall and Lightning Activity in Mindanao (2005–2014): A Spatio-Temporal Analysis.”
-Each major script includes comments that point to the relevant figures and tables in the manuscript.
-
-LICENSE
-
-Specify your chosen open-source license here (for example MIT License) and include the license file in the repository.
-
-CITATION
-
-If you use this code, please cite the thesis and this repository using the recommended citation in the docs/ or README file.
