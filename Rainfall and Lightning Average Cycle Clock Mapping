@@ -10,8 +10,8 @@ from datetime import date, datetime, timedelta
 
 # ================== PATHS AND GRID ==================
 
-RAIN_DIR      = "/Users/alexisvalderama/Desktop/Thesis/Data/RR NEW/"
-LIGHTNING_DIR = "/Users/alexisvalderama/Desktop/Thesis/Data/LD NEW/"
+RAIN_DIR = "data/TRMM_3hourly/"
+LIGHTNING_DIR = "data/WWLLN_3hourly/"
 
 lat_extent = (5.275, 9.925)
 lon_extent = (121.275, 127.025)
